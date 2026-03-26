@@ -140,6 +140,10 @@ How I fixed it: Used AI to explain JSON step-by-step
 
 - YouTube tutorials on APIs https://www.youtube.com/watch?v=ukBCjzC_C6w
 
+<img width="950" height="507" alt="image" src="https://github.com/user-attachments/assets/21650cf0-66fb-4cfc-af08-4010dd3890ae" /> 
+
+
+
 
 
 
