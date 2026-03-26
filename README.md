@@ -52,7 +52,7 @@ A currency exchange app uses an API to get live exchange rates between USD and K
 
 - Code editor (Jupyter notebook)
 
-- Python Packages
+- Python Packages: matplotlib.pyplot, requests,pandas
   
 # 4. Installation & Setup Instructions
 
@@ -67,8 +67,9 @@ A currency exchange app uses an API to get live exchange rates between USD and K
 
 - Extracts the USD to KES rate
 
+  ### A chart representing some of my currencies
 
-<img width="561" height="432" alt="image" src="https://github.com/user-attachments/assets/32391637-7aa1-4dfe-901a-cfcbe87d16c6" />
+<img width="990" height="490" alt="image" src="https://github.com/user-attachments/assets/9fe69314-a338-440b-8112-4988f0ea0884" />
 
 # 6. AI Prompt Journal (That I used)
 
@@ -135,7 +136,7 @@ How I fixed it: Used AI to explain JSON step-by-step
 
 - Requests Library Documentation https://pypi.org/project/requests/
 
-- Exchange Rate API website
+- Exchange Rate API website: https://www.fastforex.io/ 
 
 - YouTube tutorials on APIs https://www.youtube.com/watch?v=ukBCjzC_C6w
 
